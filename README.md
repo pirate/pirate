@@ -7,6 +7,9 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 
 ❤️ I love working with Python, Django, Typescript, devops, security, networking, distributed systems, and [🛞 anything with wheels](https://docs.sweeting.me/s/motorbikes).
 
+<img src="https://github.com/user-attachments/assets/fd99c038-8a25-4d49-b90e-4493b41d876d" width="100%"/>
+
+
 <table><tr><td valign="top" width="35%">
 
 ### Open Source
