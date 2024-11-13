@@ -53,7 +53,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 
 - [Travel / Adventure Journals](https://docs.sweeting.me/s/motorbikes)
 - [How Social Networks Rise & Fail](https://docs.monadical.com/s/so-you-want-to-build-a-social-network)
-- [Thoughts on Trust & Relationships](https://docs.sweeting.me/s/trust-and-relationships)
+- [On Trust & Relationships](https://docs.sweeting.me/s/trust-and-relationships)
 - [Why I Ask Stupid Questions](https://docs.sweeting.me/s/ask-stupid-questions)
 - [Management Principles](https://monadical.com/principles.html)
 
@@ -91,7 +91,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 - [Internet Archiving](https://github.com/pirate/internet-archiving-talk) @ [PyGotham](https://2019.pygotham.org/talks/archiving-the-internet-before-it-all-rots-away/)
 - [TCP/IP on Quebec's Power Grid](https://github.com/pirate/quebec-power-grid-talk)
 - [Django Concurrency](https://github.com/pirate/django-concurrency-talk) @ [PyConCo](https://2019.pycon.co/en/talks/how-i-learned-to-stop-worrying-and-love-atomic-banking-blunders-and-concurrency-challenges/)
-- [Docker in Production](https://docs.sweeting.me/s/Sy-mZxxNO): [Part 1](https://youtu.be/CCFQFQ3vPfE) & [Part 2](https://youtu.be/jbM3ybCKNgM)
+- [Docker in Production](https://docs.sweeting.me/s/Sy-mZxxNO): [Pt. 1](https://youtu.be/CCFQFQ3vPfE) & [Pt. 2](https://youtu.be/jbM3ybCKNgM)
 - [LoRA Long-Distance Mesh Nets](https://www.youtube.com/watch?v=ZYPA_jDAxJY&list=PLIjkyPVIy72FcsjbjU06aPyf4JA-Q3m6D&index=2)
 
 
