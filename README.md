@@ -39,7 +39,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 
 <br/>
 
-*See more at [Monadical.com](https://monadical.com/portfolio.html) & [elsewhere](https://github.com/pirate?tab=repositories&type=source)...*
+*See more on [Monadical](https://monadical.com/portfolio.html) & [Github](https://github.com/pirate?tab=repositories&type=source)...*
 
 </td><td valign="top" width="32%">
 
@@ -51,10 +51,11 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 
 #### 🏍️ Non-Tech
 
-- [Travel / Adventure Sports Journals](https://docs.sweeting.me/s/motorbikes)
+- [Travel / Adventure Journals](https://docs.sweeting.me/s/motorbikes)
 - [How Social Networks Rise & Fail](https://docs.monadical.com/s/so-you-want-to-build-a-social-network)
-- [On Rebuilding Trust in Relationships](https://docs.sweeting.me/s/trust-and-relationships)
+- [Thoughts on Trust & Relationships](https://docs.sweeting.me/s/trust-and-relationships)
 - [Why I Ask Stupid Questions](https://docs.sweeting.me/s/ask-stupid-questions)
+- [Management Principles](https://monadical.com/principles.html)
 
 <br/>
 
@@ -68,14 +69,14 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 #### 🚂 More
 
 - [List of Favorite CLI Tools](https://docs.sweeting.me/s/system-monitoring-tools)
-- [An Introduction to `/opt` on Linux](https://docs.sweeting.me/s/an-intro-to-the-opt-directory)
+- [Introduction to `/opt` on Linux](https://docs.sweeting.me/s/an-intro-to-the-opt-directory)
 - [Don't Ship Pkgs Via `curl | sh`](https://docs.sweeting.me/s/against-curl-sh)
 - [Reconciling Templates w/ React](https://docs.sweeting.me/s/reconciling-templates-and-components)
 - [Building Off-Grid Battery Systems](https://docs.sweeting.me/s/battery-building)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-*See more writing on [blog.sweeting.me](https://docs.sweeting.me/s/blog#Tech-Writing-)...*
+*See more writing on [sweeting.me](https://docs.sweeting.me/s/blog#Tech-Writing-)...*
 
 </td><td valign="top" width="33%">
 
@@ -103,7 +104,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 - [DrChrono Podcast: <br/>Talking with former DrChrono Dev](https://www.youtube.com/watch?v=I0bMQN7X2c0&list=PLIjkyPVIy72FcsjbjU06aPyf4JA-Q3m6D&index=7)
 - [Breach Security Podcast](https://www.carbonite.com/podcasts/breach/s02e04-Equifax-data-breach) re: [Equifax](https://docs.sweeting.me/s/equifax-security-incident)
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 *See more talks on [sweeting.me](https://docs.sweeting.me/s/blog#Public-Speaking)...*
 
