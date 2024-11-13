@@ -112,3 +112,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 *See more talks on [sweeting.me](https://docs.sweeting.me/s/blog#Public-Speaking)...*
 
 </td></tr></table>
+
+<p align="center"><i>
+Want more? Fund my work on <a href="https://github.com/sponsors/pirate/">Github Sponsors</a> or ping me via <a href="https://twitter.com/theSquashSH">💬 X</a> / <a href="https://sweeting.me/#contact">✉️ email</a>.
+</i></p>
