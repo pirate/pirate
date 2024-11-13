@@ -1,3 +1,12 @@
+# 👋 Hi, I'm Nick Sweeting (`@pirate`)
+
+**I'm a full-stack software engineer in Oakland, California. I founded [ArchiveBox.io](https://github.com/ArchiveBox/ArchiveBox), and previously co-founded [Monadical.com](https://monadical.com).**   
+
+I've spent the last ~15yr working at startups, consulting, and coding around NYC, Shanghai (你好!), Portland, SF, Montreal, and Medellin.
+
+
+❤️ I love working with Python, Django, Typescript, devops, security, networking, distributed systems, music, and [🛞 anything with wheels](https://docs.sweeting.me/s/motorbikes).
+
 <table><tr><td valign="top" width="35%">
 
 ### Open Source
