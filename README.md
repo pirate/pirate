@@ -113,9 +113,8 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 
 </td></tr></table>
 
-<p align="center"><i>
-Want more? Fund my work on <a href="https://github.com/sponsors/pirate/">Github Sponsors</a> or ping me via <a href="https://twitter.com/theSquashSH">💬 X</a> / <a href="https://sweeting.me/#contact">✉️ email</a>.
-</i></p>
-
 <img src="https://github.com/user-attachments/assets/9c8f240e-d3b5-484c-91dd-0dfb2c6846b8" width="100%"/>
 
+<p align="center"><sub><i>
+Want more? Fund my work on <a href="https://github.com/sponsors/pirate/">Github Sponsors</a> or ping me via <a href="https://twitter.com/theSquashSH">💬 X</a> / <a href="https://sweeting.me/#contact">✉️ email</a>.
+</sub></i></p>
