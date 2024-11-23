@@ -17,10 +17,10 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 ---
 
 #### 📦 [ArchiveBox](https://archivebox.io) - Internet archiving
-- [good-karma-kit](https://github.com/pirate/good-karma-kit) - Donate compute
-- [abx-spec-behaviors](https://github.com/pirate/abx-spec-behaviors) - Userscripts for puppeteer/playwright/etc.
+- [good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - Donate compute
+- [abx-spec-behaviors](https://github.com/ArchiveBox/abx-spec-behaviors) - Userscripts for puppeteer/playwright/etc.
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - Host Wikipedia.org
-- [abx-dl](https://github.com/pirate/abx-dl) - Simpler ArchiveBox CLI
+- [abx-dl](https://github.com/ArchiveBox/abx-dl) - Simpler ArchiveBox CLI
 
 #### 🕸️ Networking
 - [Unofficial WireGuard Documentation](https://github.com/pirate/wireguard-docs#the-missing-wireguard-documentation)
@@ -35,7 +35,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 - [macos-global-autocomplete](https://github.com/pirate/macOS-global-autocomplete)
 
 #### 🛠️ Misc
-- [abx-pkg](https://github.com/pirate/abx-pkg) - ORM for system packages
+- [abx-pkg](https://github.com/ArchiveBox/abx-pkg) - ORM for system packages
 - [Bash-Utils](https://github.com/pirate/bash-utils) & [Fish-Utils](https://github.com/pirate/fish-functions) - my dotfiles
 - [crypto-trader](https://github.com/pirate/crypto-trader) - Crypto trading bot
 - [gzint](https://github.com/pirate/gzint) - Fast huge integers in Python
