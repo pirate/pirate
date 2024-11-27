@@ -98,14 +98,14 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 - [LoRA Long-Distance Mesh Nets](https://www.youtube.com/watch?v=ZYPA_jDAxJY&list=PLIjkyPVIy72FcsjbjU06aPyf4JA-Q3m6D&index=2)
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 #### 🎧 Podcasts
 
 - [Changelog #619: Lets archive the web](https://changelog.com/podcast/619) 
-- [Monadical: <br/>Why Care About Internet Archiving?](https://www.listennotes.com/podcasts/paradigmatic/why-you-should-care-about-mju49rvPo_S/)
-- [DrChrono: <br/>Talking with former DrChrono Dev](https://www.youtube.com/watch?v=I0bMQN7X2c0&list=PLIjkyPVIy72FcsjbjU06aPyf4JA-Q3m6D&index=7)
+- [Monadical: <br/>Why Care About Web Archiving?](https://www.listennotes.com/podcasts/paradigmatic/why-you-should-care-about-mju49rvPo_S/)
+- [DrChrono: <br/>Chat with former DrChrono Dev](https://www.youtube.com/watch?v=I0bMQN7X2c0&list=PLIjkyPVIy72FcsjbjU06aPyf4JA-Q3m6D&index=7)
 - [Breach Security Podcast](https://www.carbonite.com/podcasts/breach/s02e04-Equifax-data-breach) re: [Equifax](https://docs.sweeting.me/s/equifax-security-incident)
 
 <br/><br/><br/><br/>
