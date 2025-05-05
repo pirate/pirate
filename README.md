@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nick Sweeting (`@pirate`)
+# 👋 Hi, I'm Nick Sweeting (`@pirate` aka [`@theSquashSH`](https://x.com/theSquashSH))
 
 I'm currently working on browser automation as a **founding engineer at [Browser-Use](https://github.com/browser-use/browser-use/)**. I previously founded [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): the most popular self-hosted internet archiving solution on Github, and [Monadical](https://monadical.com): a full-stack consulting shop in Montreal ([hire them](https://monadical.com)!).
 
