@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nick Sweeting (`@pirate`)
 
-I'm currently working on browser automation as a **founding engineer at [Browser-Use](https://github.com/browser-use/browser-use/)**. I previously founded [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), the most popular self-hosted internet archiving solution on Github, and [Monadical](https://monadical.com) a general full-stack consulting shop ([hire them](https://monadical.com)!).
+I'm currently working on browser automation as a **founding engineer at [Browser-Use](https://github.com/browser-use/browser-use/)**. I previously founded [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): the most popular self-hosted internet archiving solution on Github, and [Monadical](https://monadical.com): a full-stack consulting shop in Montreal ([hire them](https://monadical.com)!).
 
 I've spent the last ~15yr working at startups, consulting, and coding around NYC, 上海, PDX, SF, Montreal, and Medellin.
 
-❤️ I love working with Python, Typescript, browsers, devops, security, networking, distributed systems, brains, and [🛞 anything with wheels](https://docs.sweeting.me/s/motorbikes).
+❤️ I love working with Python, TS, browsers, devops/security/networking, distributed systems, brains, and [🛞 anything with wheels](https://docs.sweeting.me/s/motorbikes).
 
 <img src="https://github.com/user-attachments/assets/fd99c038-8a25-4d49-b90e-4493b41d876d" width="100%"/>
 
