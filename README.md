@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nick Sweeting (`@pirate`)
 
-**I'm a full-stack software engineer in Oakland, California. I'm currently a founding engineer at [Browser-Use](https://github.com/browser-use/browser-use/) and before that I started [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), a self-hosted internet archiving solution, and [Monadical Consulting](https://monadical.com).**   
+I'm currently working on browser automation as a **founding engineer at [Browser-Use](https://github.com/browser-use/browser-use/)**. I previously founded [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), the most popular self-hosted internet archiving solution on Github, and [Monadical Consulting](https://monadical.com) a general full-stack consulting business with over 25 employees today.
 
 I've spent the last ~15yr working at startups, consulting, and coding around NYC, 上海, PDX, SF, Montreal, and Medellin.
 
