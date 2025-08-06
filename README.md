@@ -35,10 +35,10 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 - [macos-global-autocomplete](https://github.com/pirate/macOS-global-autocomplete)
 
 #### 🛠️ Misc
+- [bubus](https://github.com/browser-use/bubus) - Production-ready async event bus
 - [abx-pkg](https://github.com/ArchiveBox/abx-pkg) - ORM for system packages
 - [Bash-Utils](https://github.com/pirate/bash-utils) & [Fish-Utils](https://github.com/pirate/fish-functions) - my dotfiles
 - [crypto-trader](https://github.com/pirate/crypto-trader) - Crypto trading bot
-- [gzint](https://github.com/pirate/gzint) - Fast huge integers in Python
 
 <br/>
 
