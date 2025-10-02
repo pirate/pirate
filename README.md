@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Nick Sweeting (⚠️ on paternity leave, AFK until October)
+# 👋 Hi, I'm Nick Sweeting
 
-I'm currently working on browser automation as a **founding engineer at &nbsp;<img src="https://github.com/user-attachments/assets/ed15dbc4-a0a9-4084-bab9-35259a440d4e" height="14px"> <a href="https://github.com/browser-use/browser-use/"> Browser-Use</a>**.  
-I previously started 🏛️ [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): a self-hosted internet archiving solution, and 💼 [Monadical](https://monadical.com): a full-stack consulting shop in Montreal ([hire them](https://monadical.com)!).
+I most recently worked on AI browser automation as a **founding engineer at &nbsp;<img src="https://github.com/user-attachments/assets/ed15dbc4-a0a9-4084-bab9-35259a440d4e" height="14px"> <a href="https://github.com/browser-use/browser-use/"> Browser-Use</a>**.  
+Before that I founded 🏛️ [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): a self-hosted internet archiving solution, and 💼 [Monadical](https://monadical.com): a full-stack consulting shop in Montreal ([hire them](https://monadical.com)!).
 
 I've spent the last ~15yr working at startups, consulting, and coding around NYC, 上海, PDX, SF, Montreal, and Medellin.
 
