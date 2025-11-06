@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nick Sweeting
 
-I am currently working on **AI browser automation at &nbsp;<img src="https://github.com/user-attachments/assets/1a5b6518-3e9f-4530-b000-8de7066911d0" height="14px"> <a href="https://browserbase.com"> BrowserBase</a>**.  
+I am starting work on **AI browser automation at &nbsp;<img src="https://github.com/user-attachments/assets/1a5b6518-3e9f-4530-b000-8de7066911d0" height="14px"> <a href="https://browserbase.com"> BrowserBase</a>** Nov 17th...  
 Most recently before that I founded 🏛️ [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): a self-hosted internet archiving solution and 💼 [Monadical](https://monadical.com): a full-stack consulting shop in Montreal ([hire them](https://monadical.com)!), and was Founding Engineer at
 &nbsp;<img src="https://github.com/user-attachments/assets/ed15dbc4-a0a9-4084-bab9-35259a440d4e" height="14px"> <a href="https://github.com/browser-use/browser-use/">Browser-Use</a> (another AI+browsers company).
 
