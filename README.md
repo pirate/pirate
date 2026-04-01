@@ -18,29 +18,32 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 ---
 
 #### 🏛️ [ArchiveBox](https://archivebox.io) - Internet archiving
+- [abxbus](https://github.com/archivebox/abxbus) - Python + JS event bus lib
 - [abx-dl](https://github.com/ArchiveBox/abx-dl) - Simpler ArchiveBox CLI
+- [abx-pkg](https://github.com/ArchiveBox/abx-pkg) - ORM for system packages
 - [good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - Donate compute
-- [abx-spec-behaviors](https://github.com/ArchiveBox/abx-spec-behaviors) - Userscripts for puppeteer/playwright/etc.
+
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - Host Wikipedia.org
 
 
 #### 🕸️ Networking
-- [Unofficial WireGuard Documentation](https://github.com/pirate/wireguard-docs#the-missing-wireguard-documentation)
-- [django-http2-middleware](https://github.com/pirate/django-http2-middleware)
+- [wireguard-docs](https://github.com/pirate/wireguard-docs)
 - [mesh-networking](https://github.com/pirate/mesh-networking) - Python library
 - [mesh-botnet](https://github.com/pirate/mesh-botnet) - PoC viral botnet
 - [storycoin](https://github.com/pirate/storycoin) - storytelling chain in Rust
+- [django-http2-middleware](https://github.com/pirate/django-http2-middleware)
 
 #### 🍏 macOS
 - [security-growler](https://github.com/pirate/security-growler)
-- [mac-keyboard-brightness](https://github.com/pirate/mac-keyboard-brightness)
+- [mac-hardware-toys](https://github.com/pirate/mac-hardware-toys)
 - [macos-global-autocomplete](https://github.com/pirate/macOS-global-autocomplete)
 
 #### 🛠️ Misc
-- [abxbus](https://github.com/archivebox/abxbus) - Python + JS event bus lib
-- [abx-pkg](https://github.com/ArchiveBox/abx-pkg) - ORM for system packages
+
+- [soundview](https://github.com/pirate/soundview)
 - [Bash-Utils](https://github.com/pirate/bash-utils) & [Fish-Utils](https://github.com/pirate/fish-functions) - my dotfiles
 - [crypto-trader](https://github.com/pirate/crypto-trader) - Crypto trading bot
+- [abx-spec-behaviors](https://github.com/ArchiveBox/abx-spec-behaviors) - Userscripts for puppeteer/playwright/etc.
 
 <br/>
 
