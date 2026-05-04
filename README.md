@@ -40,6 +40,7 @@ I've spent the last ~15yr working at startups, consulting, and coding around NYC
 #### 🛠️ Misc
 
 - [soundview](https://github.com/pirate/soundview)
+- [assembly-repl](https://github.com/pirate/assembly-repl)
 - [Bash-Utils](https://github.com/pirate/bash-utils) & [Fish-Utils](https://github.com/pirate/fish-functions) - my dotfiles
 - [crypto-trader](https://github.com/pirate/crypto-trader) - Crypto trading bot
 - [abx-spec-behaviors](https://github.com/ArchiveBox/abx-spec-behaviors) - Userscripts for puppeteer/playwright/etc.
