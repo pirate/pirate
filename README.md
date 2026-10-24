@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Nick Sweeting
 
+<!--
 I'm a full-stack engineer currently working on Applied AI @OpenAI. Prev: 🏛️ [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), **&nbsp;<img src="https://github.com/user-attachments/assets/1a5b6518-3e9f-4530-b000-8de7066911d0" height="14px"> <a href="https://browserbase.com"> BrowserBase</a>**, and
 &nbsp;<img src="https://github.com/user-attachments/assets/ed15dbc4-a0a9-4084-bab9-35259a440d4e" height="14px"> <a href="https://github.com/browser-use/browser-use/">Browser-Use</a>.  
 I also co-founded 💼 [Monadical](https://monadical.com): a generalist software consulting shop in Montreal ([hire them](https://monadical.com)!).
 
-I've spent the last ~15yr working at startups, consulting, and coding around NYC, 上海, PDX, SF, Montreal, and Medellin.
+I've spent the last ~15yr working at startups, consulting, and coding around NYC, 上海, PDX, SF, Montreal, and Medellin.-->
 
 ❤️ I love working with Python, TS, browsers, devops/security/networking, distributed systems, neuro, and 🛞 [anything with wheels](https://docs.sweeting.me/s/motorbikes).
 
